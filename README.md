@@ -73,7 +73,7 @@ swiss, cheddar
 ```
 
 ### 💾 AI Order Example
-![AI Prompt](AlPrompt.png)
+![AI Prompt](AIPrompt.png)
 ```
 Enter your full natural language order:
 > Can i get a blt with a large lemonade?
