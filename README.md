@@ -14,7 +14,7 @@
 - Persistent custom signature sandwiches via `signatures.json`
 
 ## Demo Screenshots
-![Class Diagram](ClassDiagram.png)
+![Class Diagram](FinalDiagram.png)
 
 ### 💻 Main Menu
 ![Welcome Screen](WelcomeScreen.png)
