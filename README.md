@@ -14,10 +14,10 @@
 - Persistent custom signature sandwiches via `signatures.json`
 
 ## Demo Screenshots
-![Class Diagram](DELI_cious/Class_Diagram.png)
+![Class Diagram](Class_Diagram.png)
 
 ### 💻 Main Menu
-![Welcome Screen](DELI_CIOUS/WelcomeScreen.png)
+![Welcome Screen](WelcomeScreen.png)
 ```
 Welcome to DELI-cious!
 1) New Order
@@ -25,7 +25,7 @@ Welcome to DELI-cious!
 ```
 
 ### 💾 Order Menu
-![Order Menu](DELI_CIOUS/Menu.png)
+![Order Menu](Menu.png)
 ```
 Order Menu:
 1) Add Sandwich
@@ -41,7 +41,7 @@ add a large lemonade
 AI items successfully added to vour order!
 ```
 ### 💾 Custom Sandwich Options/Window
-![Custom Sandwich](DELI_CIOUS/CustomSandwich.png)
+![Custom Sandwich](CustomSandwich.png)
 ```
 Available Sandwich Sizes:
 4" ($5.50)
@@ -73,7 +73,7 @@ swiss, cheddar
 ```
 
 ### 💾 AI Order Example
-![AI Prompt](DELI_CIOUS/AlPrompt.png)
+![AI Prompt](AlPrompt.png)
 ```
 Enter your full natural language order:
 > Can i get a blt with a large lemonade?
@@ -82,7 +82,7 @@ AI items successfully added to your order!
 ```
 
 ### 💾 Check Out Screen Example
-![Checkout Screen](DELI_CIOUS/CheckOutScreen.png)
+![Checkout Screen](CheckOutScreen.png)
 ```
 REVIEW YOUR ORDER
 Signature: BLT (8" white) (8" white) (Toasted)
@@ -96,7 +96,7 @@ Do you want to proceed to checkout? (yes/no):
 ```
 
 ### 💾 Receipt Output
-![Receipt](DELI_CIOUS/Receipt.png)
+![Receipt](Receipt.png)
 
 ```
 ----- RECEIPT -----
